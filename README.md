@@ -85,7 +85,7 @@ The project generates the following charts:
 
 ## 📂 Dataset
 
-**File:** `Student_Satisfaction_Survey.csv`
+**File: [Data_set](https://github.com/zubair-kacheri/FUTURE_DS_03/blob/main/Student_Satisfaction_Survey.csv)
 The dataset contains student feedback captured using a 1–5 rating scale across multiple weightage columns.
 
 ### Key Fields
